@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorInteligencia">#FF4081</color>
+    <color name="colorFuerza">#536DFE</color>
+    <color name="colorVelocidad">#FFC107</color>
+    <color name="colorDurabilidad">#4CAF50</color>
+    <color name="colorPoder">#FF5722</color>
+    <color name="colorCombate">#03A9F4</color>
+</resources>
